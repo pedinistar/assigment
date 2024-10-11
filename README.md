@@ -1,9 +1,18 @@
-# React + Vite
+# Pokémon Card Display App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **Pokémon Card Display App**! This React application showcases a list of Pokémon fetched from the [PokeAPI](https://pokeapi.co/api/v2/pokemon). Users can easily search for their favorite Pokémon and view them displayed as cards, complete with images.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# assigment
+- **Dynamic Data Fetching**: Retrieves Pokémon data from the PokeAPI.
+- **Card Display**: Each Pokémon is displayed in a visually appealing card format, featuring its name and image.
+- **Search Functionality**: Users can filter Pokémon by name using a search input, making it easy to find specific Pokémon.
+
+## Tech Stack
+
+- **Frontend**: React
+- **API**: PokeAPI
+
+## Live Demo
+
+Check out the application live at: [Pokémon Card Display App](https://assigment-sepia.vercel.app/)
